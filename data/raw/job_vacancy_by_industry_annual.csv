@@ -1,0 +1,261 @@
+year,industry,job_vacancy
+2006,manufacturing,8300
+2006,services,21000
+2006,administrative and support services,2000
+2006,wholesale and retail trade,3100
+2006,transportation and storage,2700
+2006,"community, social and personal services",6000
+2006,accommodation and food services,2200
+2006,professional services,1800
+2006,financial and insurance services,1600
+2006,information and communications,1000
+2006,real estate services,600
+2006,construction,1600
+2006,others,300
+2007,transportation and storage,3100
+2007,"community, social and personal services",7400
+2007,services,27100
+2007,professional services,2700
+2007,accommodation and food services,2400
+2007,information and communications,1300
+2007,manufacturing,8600
+2007,real estate services,900
+2007,financial and insurance services,2600
+2007,wholesale and retail trade,4100
+2007,administrative and support services,2700
+2007,construction,2400
+2007,others,500
+2008,accommodation and food services,2500
+2008,information and communications,1400
+2008,transportation and storage,2300
+2008,"community, social and personal services",9300
+2008,financial and insurance services,1900
+2008,real estate services,900
+2008,professional services,2600
+2008,manufacturing,6500
+2008,others,500
+2008,construction,3000
+2008,services,27800
+2008,wholesale and retail trade,3800
+2008,administrative and support services,3000
+2009,information and communications,800
+2009,professional services,1500
+2009,accommodation and food services,2100
+2009,"community, social and personal services",10200
+2009,transportation and storage,1500
+2009,wholesale and retail trade,2900
+2009,administrative and support services,2200
+2009,manufacturing,4700
+2009,services,23500
+2009,construction,1900
+2009,others,400
+2009,real estate services,900
+2009,financial and insurance services,1300
+2010,transportation and storage,3100
+2010,real estate services,1400
+2010,accommodation and food services,3900
+2010,construction,2700
+2010,administrative and support services,3200
+2010,wholesale and retail trade,4800
+2010,services,32900
+2010,"community, social and personal services",10600
+2010,information and communications,1400
+2010,financial and insurance services,2500
+2010,manufacturing,8200
+2010,professional services,2000
+2010,others,400
+2011,professional services,2500
+2011,accommodation and food services,4300
+2011,real estate services,1900
+2011,construction,3700
+2011,others,600
+2011,administrative and support services,4500
+2011,manufacturing,8900
+2011,transportation and storage,3500
+2011,"community, social and personal services",12600
+2011,services,39600
+2011,wholesale and retail trade,5700
+2011,financial and insurance services,2800
+2011,information and communications,1700
+2012,financial and insurance services,2500
+2012,transportation and storage,3300
+2012,wholesale and retail trade,5900
+2012,"community, social and personal services",11200
+2012,others,800
+2012,construction,3400
+2012,manufacturing,7100
+2012,information and communications,1600
+2012,real estate services,1800
+2012,services,37300
+2012,accommodation and food services,4900
+2012,professional services,2500
+2012,administrative and support services,3700
+2013,services,43200
+2013,real estate services,2100
+2013,professional services,2900
+2013,accommodation and food services,6200
+2013,information and communications,1800
+2013,construction,3800
+2013,others,600
+2013,wholesale and retail trade,7000
+2013,administrative and support services,4300
+2013,"community, social and personal services",12400
+2013,transportation and storage,3800
+2013,financial and insurance services,2800
+2013,manufacturing,7800
+2014,manufacturing,8500
+2014,real estate services,2300
+2014,professional services,3500
+2014,accommodation and food services,7400
+2014,services,50700
+2014,"community, social and personal services",13700
+2014,construction,3600
+2014,others,500
+2014,information and communications,2400
+2014,financial and insurance services,3800
+2014,wholesale and retail trade,7900
+2014,transportation and storage,4200
+2014,administrative and support services,5400
+2015,financial and insurance services,3700
+2015,accommodation and food services,7200
+2015,information and communications,2900
+2015,administrative and support services,5300
+2015,services,48900
+2015,transportation and storage,3800
+2015,wholesale and retail trade,7200
+2015,others,500
+2015,manufacturing,7000
+2015,real estate services,2200
+2015,professional services,3900
+2015,construction,2900
+2015,"community, social and personal services",12600
+2016,administrative and support services,4800
+2016,wholesale and retail trade,6200
+2016,transportation and storage,2900
+2016,services,41300
+2016,construction,2000
+2016,"community, social and personal services",10800
+2016,others,400
+2016,manufacturing,5800
+2016,real estate services,1500
+2016,professional services,3300
+2016,accommodation and food services,5700
+2016,financial and insurance services,3200
+2016,information and communications,2900
+2017,administrative and support services,4600
+2017,manufacturing,6500
+2017,financial and insurance services,4200
+2017,information and communications,3100
+2017,accommodation and food services,5300
+2017,professional services,2800
+2017,real estate services,1100
+2017,wholesale and retail trade,5800
+2017,transportation and storage,3300
+2017,services,40100
+2017,construction,1700
+2017,"community, social and personal services",9900
+2017,others,400
+2018,others,400
+2018,"community, social and personal services",10700
+2018,manufacturing,8300
+2018,construction,3000
+2018,accommodation and food services,5900
+2018,professional services,4000
+2018,information and communications,4000
+2018,financial and insurance services,5000
+2018,real estate services,1200
+2018,services,46200
+2018,wholesale and retail trade,6500
+2018,transportation and storage,3800
+2018,administrative and support services,5000
+2019,financial and insurance services,5300
+2019,professional services,3900
+2019,information and communications,4200
+2019,real estate services,1300
+2019,accommodation and food services,5900
+2019,services,43600
+2019,administrative and support services,3900
+2019,construction,2300
+2019,manufacturing,6600
+2019,"community, social and personal services",10800
+2019,others,400
+2019,transportation and storage,3000
+2019,wholesale and retail trade,5400
+2020,others,300
+2020,real estate services,1100
+2020,professional services,3200
+2020,accommodation and food services,4100
+2020,financial and insurance services,4300
+2020,information and communications,4600
+2020,construction,2700
+2020,"community, social and personal services",11600
+2020,manufacturing,5500
+2020,transportation and storage,1700
+2020,administrative and support services,4000
+2020,services,39900
+2020,wholesale and retail trade,5300
+2021,real estate services,1500
+2021,information and communications,8600
+2021,accommodation and food services,7000
+2021,professional services,7200
+2021,financial and insurance services,8200
+2021,manufacturing,12800
+2021,construction,10600
+2021,"community, social and personal services",17500
+2021,others,700
+2021,transportation and storage,5300
+2021,wholesale and retail trade,9200
+2021,services,70600
+2021,administrative and support services,6200
+2022,real estate services,2100
+2022,information and communications,10300
+2022,accommodation and food services,9900
+2022,manufacturing,13500
+2022,"community, social and personal services",22300
+2022,others,700
+2022,financial and insurance services,10200
+2022,construction,10300
+2022,wholesale and retail trade,11200
+2022,transportation and storage,7900
+2022,administrative and support services,7600
+2022,professional services,9100
+2022,services,90600
+2023,accommodation and food services,8100
+2023,financial and insurance services,6300
+2023,manufacturing,8300
+2023,"community, social and personal services",20200
+2023,others,700
+2023,wholesale and retail trade,7700
+2023,transportation and storage,5600
+2023,services,70000
+2023,construction,6800
+2023,administrative and support services,6500
+2023,professional services,6700
+2023,real estate services,1800
+2023,information and communications,7100
+2024,accommodation and food services,6500
+2024,information and communications,6300
+2024,construction,7300
+2024,services,59500
+2024,others,600
+2024,"community, social and personal services",17300
+2024,professional services,6000
+2024,administrative and support services,5200
+2024,transportation and storage,4800
+2024,real estate services,1800
+2024,financial and insurance services,5100
+2024,manufacturing,8100
+2024,wholesale and retail trade,6700
+2025,information and communications,5800
+2025,"community, social and personal services",16600
+2025,others,600
+2025,manufacturing,7500
+2025,financial and insurance services,5700
+2025,real estate services,1500
+2025,accommodation and food services,6100
+2025,transportation and storage,4800
+2025,wholesale and retail trade,6000
+2025,professional services,6100
+2025,administrative and support services,4900
+2025,services,57600
+2025,construction,10300

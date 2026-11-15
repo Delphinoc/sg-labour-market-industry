@@ -1,0 +1,261 @@
+year,industry,retrench
+2006,manufacturing,8860
+2006,services,3670
+2006,administrative and support services,210
+2006,wholesale and retail trade,1010
+2006,transportation and storage,410
+2006,"community, social and personal services",370
+2006,accommodation and food services,230
+2006,professional services,270
+2006,financial and insurance services,400
+2006,information and communications,620
+2006,real estate services,150
+2006,construction,490
+2006,others,70
+2007,transportation and storage,270
+2007,"community, social and personal services",270
+2007,services,2990
+2007,professional services,280
+2007,accommodation and food services,330
+2007,information and communications,270
+2007,manufacturing,5500
+2007,real estate services,10
+2007,financial and insurance services,180
+2007,wholesale and retail trade,1240
+2007,administrative and support services,140
+2007,construction,80
+2007,others,20
+2008,accommodation and food services,150
+2008,information and communications,450
+2008,transportation and storage,600
+2008,"community, social and personal services",570
+2008,financial and insurance services,1440
+2008,real estate services,70
+2008,professional services,700
+2008,manufacturing,10420
+2008,others,50
+2008,construction,540
+2008,services,5870
+2008,wholesale and retail trade,1530
+2008,administrative and support services,370
+2009,information and communications,690
+2009,professional services,1210
+2009,accommodation and food services,200
+2009,"community, social and personal services",240
+2009,transportation and storage,1050
+2009,wholesale and retail trade,2670
+2009,administrative and support services,690
+2009,manufacturing,13640
+2009,services,8720
+2009,construction,980
+2009,others,90
+2009,real estate services,140
+2009,financial and insurance services,1840
+2010,transportation and storage,320
+2010,real estate services,130
+2010,accommodation and food services,130
+2010,construction,1350
+2010,administrative and support services,270
+2010,wholesale and retail trade,1170
+2010,services,3960
+2010,"community, social and personal services",260
+2010,information and communications,350
+2010,financial and insurance services,610
+2010,manufacturing,4490
+2010,professional services,720
+2010,others,-
+2011,professional services,940
+2011,accommodation and food services,350
+2011,real estate services,130
+2011,construction,1050
+2011,others,50
+2011,administrative and support services,100
+2011,manufacturing,4460
+2011,transportation and storage,230
+2011,"community, social and personal services",260
+2011,services,4430
+2011,wholesale and retail trade,1050
+2011,financial and insurance services,860
+2011,information and communications,500
+2012,financial and insurance services,1380
+2012,transportation and storage,280
+2012,wholesale and retail trade,1830
+2012,"community, social and personal services",240
+2012,others,10
+2012,construction,650
+2012,manufacturing,4050
+2012,information and communications,730
+2012,real estate services,60
+2012,services,6300
+2012,accommodation and food services,270
+2012,professional services,1230
+2012,administrative and support services,280
+2013,services,5430
+2013,real estate services,30
+2013,professional services,960
+2013,accommodation and food services,220
+2013,information and communications,840
+2013,construction,1120
+2013,others,10
+2013,wholesale and retail trade,1280
+2013,administrative and support services,210
+2013,"community, social and personal services",190
+2013,transportation and storage,450
+2013,financial and insurance services,1270
+2013,manufacturing,5000
+2014,manufacturing,3970
+2014,real estate services,90
+2014,professional services,1520
+2014,accommodation and food services,380
+2014,services,7260
+2014,"community, social and personal services",130
+2014,construction,1690
+2014,others,10
+2014,information and communications,810
+2014,financial and insurance services,1350
+2014,wholesale and retail trade,2190
+2014,transportation and storage,470
+2014,administrative and support services,340
+2015,financial and insurance services,1760
+2015,accommodation and food services,200
+2015,information and communications,730
+2015,administrative and support services,380
+2015,services,8510
+2015,transportation and storage,690
+2015,wholesale and retail trade,2180
+2015,others,80
+2015,manufacturing,5210
+2015,real estate services,50
+2015,professional services,2290
+2015,construction,1780
+2015,"community, social and personal services",230
+2016,administrative and support services,340
+2016,wholesale and retail trade,2380
+2016,transportation and storage,870
+2016,services,10880
+2016,construction,1920
+2016,"community, social and personal services",850
+2016,others,100
+2016,manufacturing,6280
+2016,real estate services,90
+2016,professional services,2740
+2016,accommodation and food services,350
+2016,financial and insurance services,2310
+2016,information and communications,970
+2017,administrative and support services,410
+2017,manufacturing,3790
+2017,financial and insurance services,1780
+2017,information and communications,940
+2017,accommodation and food services,470
+2017,professional services,1700
+2017,real estate services,70
+2017,wholesale and retail trade,2180
+2017,transportation and storage,890
+2017,services,8900
+2017,construction,2020
+2017,"community, social and personal services",460
+2017,others,20
+2018,others,-
+2018,"community, social and personal services",290
+2018,manufacturing,2570
+2018,construction,1200
+2018,accommodation and food services,350
+2018,professional services,1100
+2018,information and communications,1120
+2018,financial and insurance services,1330
+2018,real estate services,100
+2018,services,6960
+2018,wholesale and retail trade,1780
+2018,transportation and storage,690
+2018,administrative and support services,200
+2019,financial and insurance services,1300
+2019,professional services,1210
+2019,information and communications,710
+2019,real estate services,190
+2019,accommodation and food services,170
+2019,services,7000
+2019,administrative and support services,260
+2019,construction,860
+2019,manufacturing,2790
+2019,"community, social and personal services",300
+2019,others,30
+2019,transportation and storage,760
+2019,wholesale and retail trade,2090
+2020,others,40
+2020,real estate services,140
+2020,professional services,2310
+2020,accommodation and food services,1700
+2020,financial and insurance services,2140
+2020,information and communications,1430
+2020,construction,990
+2020,"community, social and personal services",2690
+2020,manufacturing,5320
+2020,transportation and storage,2780
+2020,administrative and support services,1600
+2020,services,19760
+2020,wholesale and retail trade,4980
+2021,real estate services,100
+2021,information and communications,1040
+2021,accommodation and food services,180
+2021,professional services,920
+2021,financial and insurance services,1330
+2021,manufacturing,1710
+2021,construction,240
+2021,"community, social and personal services",170
+2021,others,50
+2021,transportation and storage,550
+2021,wholesale and retail trade,1400
+2021,services,6020
+2021,administrative and support services,340
+2022,real estate services,30
+2022,information and communications,1200
+2022,accommodation and food services,40
+2022,manufacturing,2100
+2022,"community, social and personal services",310
+2022,others,30
+2022,financial and insurance services,700
+2022,construction,260
+2022,wholesale and retail trade,910
+2022,transportation and storage,150
+2022,administrative and support services,230
+2022,professional services,490
+2022,services,4060
+2023,accommodation and food services,150
+2023,financial and insurance services,1820
+2023,manufacturing,3470
+2023,"community, social and personal services",280
+2023,others,80
+2023,wholesale and retail trade,2850
+2023,transportation and storage,540
+2023,services,10440
+2023,construction,590
+2023,administrative and support services,380
+2023,professional services,1620
+2023,real estate services,80
+2023,information and communications,2740
+2024,accommodation and food services,180
+2024,information and communications,2060
+2024,construction,460
+2024,services,9670
+2024,others,120
+2024,"community, social and personal services",360
+2024,professional services,1870
+2024,administrative and support services,540
+2024,transportation and storage,520
+2024,real estate services,80
+2024,financial and insurance services,1880
+2024,manufacturing,2780
+2024,wholesale and retail trade,2170
+2025,information and communications,1930
+2025,"community, social and personal services",470
+2025,others,160
+2025,manufacturing,2780
+2025,financial and insurance services,2360
+2025,real estate services,80
+2025,accommodation and food services,240
+2025,transportation and storage,1180
+2025,wholesale and retail trade,2320
+2025,professional services,1900
+2025,administrative and support services,500
+2025,services,10980
+2025,construction,580

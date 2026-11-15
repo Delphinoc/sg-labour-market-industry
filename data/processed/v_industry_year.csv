@@ -1,0 +1,261 @@
+industry,parent,level,year,period,retrench_per_1000,retrenched,vacancies,resignation_rate_pct,vacancies_per_retrenched
+manufacturing,total,1,2006,other,24.0,8860.0,8300.0,1.5,0.9367945823927766
+manufacturing,total,1,2007,other,14.3,5500.0,8600.0,1.5,1.5636363636363637
+manufacturing,total,1,2008,other,24.7,10420.0,6500.0,1.6,0.6238003838771593
+manufacturing,total,1,2009,other,35.2,13640.0,4700.0,1.5,0.34457478005865105
+manufacturing,total,1,2010,other,11.5,4490.0,8200.0,1.5,1.8262806236080178
+manufacturing,total,1,2011,other,11.4,4460.0,8900.0,1.6,1.9955156950672646
+manufacturing,total,1,2012,other,10.2,4050.0,7100.0,1.6,1.7530864197530864
+manufacturing,total,1,2013,other,12.5,5000.0,7800.0,1.5,1.56
+manufacturing,total,1,2014,other,10.0,3970.0,8500.0,1.5,2.141057934508816
+manufacturing,total,1,2015,baseline_2015_19,13.2,5210.0,7000.0,1.5,1.3435700575815739
+manufacturing,total,1,2016,baseline_2015_19,16.7,6280.0,5800.0,1.5,0.9235668789808917
+manufacturing,total,1,2017,baseline_2015_19,10.7,3790.0,6500.0,1.5,1.7150395778364116
+manufacturing,total,1,2018,baseline_2015_19,7.3,2570.0,8300.0,1.6,3.2295719844357977
+manufacturing,total,1,2019,baseline_2015_19,8.1,2790.0,6600.0,1.5,2.3655913978494625
+manufacturing,total,1,2020,covid_2020_21,16.0,5320.0,5500.0,1.2,1.0338345864661653
+manufacturing,total,1,2021,covid_2020_21,6.2,1710.0,12800.0,1.5,7.485380116959064
+manufacturing,total,1,2022,other,6.6,2100.0,13500.0,1.5,6.428571428571429
+manufacturing,total,1,2023,latest_2023_25,10.1,3470.0,8300.0,1.2,2.3919308357348705
+manufacturing,total,1,2024,latest_2023_25,8.0,2780.0,8100.0,1.0,2.9136690647482015
+manufacturing,total,1,2025,latest_2023_25,8.1,2780.0,7500.0,0.9,2.697841726618705
+construction,total,1,2006,other,3.5,490.0,1600.0,1.7,3.2653061224489797
+construction,total,1,2007,other,0.5,80.0,2400.0,1.7,30.0
+construction,total,1,2008,other,2.8,540.0,3000.0,1.7,5.555555555555555
+construction,total,1,2009,other,4.1,980.0,1900.0,1.6,1.9387755102040816
+construction,total,1,2010,other,5.6,1350.0,2700.0,1.8,2.0
+construction,total,1,2011,other,4.2,1050.0,3700.0,1.7,3.5238095238095237
+construction,total,1,2012,other,2.4,650.0,3400.0,1.8,5.230769230769231
+construction,total,1,2013,other,3.8,1120.0,3800.0,2.0,3.392857142857143
+construction,total,1,2014,other,5.3,1690.0,3600.0,1.9,2.1301775147928996
+construction,total,1,2015,baseline_2015_19,5.4,1780.0,2900.0,1.8,1.6292134831460674
+construction,total,1,2016,baseline_2015_19,5.7,1920.0,2000.0,1.7,1.0416666666666667
+construction,total,1,2017,baseline_2015_19,6.7,2020.0,1700.0,1.8,0.8415841584158416
+construction,total,1,2018,baseline_2015_19,4.1,1200.0,3000.0,1.8,2.5
+construction,total,1,2019,baseline_2015_19,3.1,860.0,2300.0,1.8,2.6744186046511627
+construction,total,1,2020,covid_2020_21,3.7,990.0,2700.0,1.4,2.727272727272727
+construction,total,1,2021,covid_2020_21,1.1,240.0,10600.0,1.3,44.166666666666664
+construction,total,1,2022,other,0.9,260.0,10300.0,1.3,39.61538461538461
+construction,total,1,2023,latest_2023_25,1.9,590.0,6800.0,1.3,11.525423728813559
+construction,total,1,2024,latest_2023_25,1.3,460.0,7300.0,1.2,15.869565217391305
+construction,total,1,2025,latest_2023_25,1.5,580.0,10300.0,1.2,17.75862068965517
+services,total,1,2006,other,4.5,3670.0,21000.0,2.2,5.722070844686648
+services,total,1,2007,other,3.4,2990.0,27100.0,2.3,9.063545150501673
+services,total,1,2008,other,6.1,5870.0,27800.0,2.2,4.735945485519591
+services,total,1,2009,other,8.7,8720.0,23500.0,1.9,2.694954128440367
+services,total,1,2010,other,3.7,3960.0,32900.0,2.3,8.308080808080808
+services,total,1,2011,other,3.8,4430.0,39600.0,2.2,8.939051918735892
+services,total,1,2012,other,5.1,6300.0,37300.0,2.3,5.920634920634921
+services,total,1,2013,other,4.3,5430.0,43200.0,2.2,7.955801104972376
+services,total,1,2014,other,5.5,7260.0,50700.0,2.2,6.983471074380165
+services,total,1,2015,baseline_2015_19,6.2,8510.0,48900.0,2.0,5.746180963572268
+services,total,1,2016,baseline_2015_19,7.7,10880.0,41300.0,1.9,3.795955882352941
+services,total,1,2017,baseline_2015_19,6.3,8900.0,40100.0,1.9,4.50561797752809
+services,total,1,2018,baseline_2015_19,4.8,6960.0,46200.0,1.9,6.637931034482759
+services,total,1,2019,baseline_2015_19,4.8,7000.0,43600.0,1.8,6.228571428571429
+services,total,1,2020,covid_2020_21,13.9,19760.0,39900.0,1.6,2.019230769230769
+services,total,1,2021,covid_2020_21,4.7,6020.0,70600.0,1.8,11.727574750830565
+services,total,1,2022,other,2.8,4060.0,90600.0,1.8,22.31527093596059
+services,total,1,2023,latest_2023_25,7.0,10440.0,70000.0,1.5,6.704980842911877
+services,total,1,2024,latest_2023_25,6.4,9670.0,59500.0,1.4,6.153050672182006
+services,total,1,2025,latest_2023_25,7.0,10980.0,57600.0,1.3,5.245901639344262
+wholesale and retail trade,services,2,2006,other,6.6,1010.0,3100.0,2.6,3.0693069306930694
+wholesale and retail trade,services,2,2007,other,7.4,1240.0,4100.0,2.7,3.306451612903226
+wholesale and retail trade,services,2,2008,other,8.3,1530.0,3800.0,2.6,2.4836601307189543
+wholesale and retail trade,services,2,2009,other,14.3,2670.0,2900.0,2.4,1.0861423220973783
+wholesale and retail trade,services,2,2010,other,6.2,1170.0,4800.0,2.9,4.102564102564102
+wholesale and retail trade,services,2,2011,other,5.1,1050.0,5700.0,2.6,5.428571428571429
+wholesale and retail trade,services,2,2012,other,8.5,1830.0,5900.0,2.9,3.2240437158469946
+wholesale and retail trade,services,2,2013,other,5.8,1280.0,7000.0,2.9,5.46875
+wholesale and retail trade,services,2,2014,other,9.5,2190.0,7900.0,2.6,3.6073059360730593
+wholesale and retail trade,services,2,2015,baseline_2015_19,9.3,2180.0,7200.0,2.2,3.302752293577982
+wholesale and retail trade,services,2,2016,baseline_2015_19,10.0,2380.0,6200.0,2.2,2.6050420168067228
+wholesale and retail trade,services,2,2017,baseline_2015_19,9.1,2180.0,5800.0,2.0,2.6605504587155964
+wholesale and retail trade,services,2,2018,baseline_2015_19,7.4,1780.0,6500.0,2.0,3.651685393258427
+wholesale and retail trade,services,2,2019,baseline_2015_19,8.7,2090.0,5400.0,1.8,2.583732057416268
+wholesale and retail trade,services,2,2020,covid_2020_21,22.0,4980.0,5300.0,1.7,1.0642570281124497
+wholesale and retail trade,services,2,2021,covid_2020_21,6.9,1400.0,9200.0,1.8,6.571428571428571
+wholesale and retail trade,services,2,2022,other,4.2,910.0,11200.0,1.8,12.307692307692308
+wholesale and retail trade,services,2,2023,latest_2023_25,12.3,2850.0,7700.0,1.4,2.7017543859649122
+wholesale and retail trade,services,2,2024,latest_2023_25,10.0,2170.0,6700.0,1.5,3.087557603686636
+wholesale and retail trade,services,2,2025,latest_2023_25,10.4,2320.0,6000.0,1.3,2.586206896551724
+transportation and storage,services,2,2006,other,4.2,410.0,2700.0,1.4,6.585365853658536
+transportation and storage,services,2,2007,other,2.6,270.0,3100.0,1.4,11.481481481481481
+transportation and storage,services,2,2008,other,5.3,600.0,2300.0,1.6,3.8333333333333335
+transportation and storage,services,2,2009,other,9.2,1050.0,1500.0,1.3,1.4285714285714286
+transportation and storage,services,2,2010,other,2.6,320.0,3100.0,1.6,9.6875
+transportation and storage,services,2,2011,other,1.8,230.0,3500.0,1.6,15.217391304347826
+transportation and storage,services,2,2012,other,2.0,280.0,3300.0,1.6,11.785714285714286
+transportation and storage,services,2,2013,other,3.1,450.0,3800.0,1.7,8.444444444444445
+transportation and storage,services,2,2014,other,3.2,470.0,4200.0,1.7,8.936170212765957
+transportation and storage,services,2,2015,baseline_2015_19,4.6,690.0,3800.0,1.5,5.507246376811594
+transportation and storage,services,2,2016,baseline_2015_19,5.7,870.0,2900.0,1.4,3.3333333333333335
+transportation and storage,services,2,2017,baseline_2015_19,5.7,890.0,3300.0,1.3,3.707865168539326
+transportation and storage,services,2,2018,baseline_2015_19,4.4,690.0,3800.0,1.3,5.507246376811594
+transportation and storage,services,2,2019,baseline_2015_19,5.2,760.0,3000.0,1.4,3.9473684210526314
+transportation and storage,services,2,2020,covid_2020_21,18.9,2780.0,1700.0,1.1,0.6115107913669064
+transportation and storage,services,2,2021,covid_2020_21,4.1,550.0,5300.0,1.4,9.636363636363637
+transportation and storage,services,2,2022,other,1.0,150.0,7900.0,1.5,52.666666666666664
+transportation and storage,services,2,2023,latest_2023_25,4.4,540.0,5600.0,1.3,10.37037037037037
+transportation and storage,services,2,2024,latest_2023_25,4.1,520.0,4800.0,1.1,9.23076923076923
+transportation and storage,services,2,2025,latest_2023_25,8.5,1180.0,4800.0,1.0,4.067796610169491
+accommodation and food services,services,2,2006,other,3.4,230.0,2200.0,4.4,9.565217391304348
+accommodation and food services,services,2,2007,other,4.4,330.0,2400.0,4.4,7.2727272727272725
+accommodation and food services,services,2,2008,other,1.8,150.0,2500.0,3.9,16.666666666666668
+accommodation and food services,services,2,2009,other,2.2,200.0,2100.0,3.8,10.5
+accommodation and food services,services,2,2010,other,1.4,130.0,3900.0,4.1,30.0
+accommodation and food services,services,2,2011,other,3.4,350.0,4300.0,4.2,12.285714285714286
+accommodation and food services,services,2,2012,other,2.5,270.0,4900.0,4.3,18.14814814814815
+accommodation and food services,services,2,2013,other,1.9,220.0,6200.0,4.1,28.181818181818183
+accommodation and food services,services,2,2014,other,3.1,380.0,7400.0,4.3,19.473684210526315
+accommodation and food services,services,2,2015,baseline_2015_19,1.6,200.0,7200.0,4.0,36.0
+accommodation and food services,services,2,2016,baseline_2015_19,2.5,350.0,5700.0,3.6,16.285714285714285
+accommodation and food services,services,2,2017,baseline_2015_19,3.4,470.0,5300.0,3.6,11.27659574468085
+accommodation and food services,services,2,2018,baseline_2015_19,2.5,350.0,5900.0,3.3,16.857142857142858
+accommodation and food services,services,2,2019,baseline_2015_19,1.2,170.0,5900.0,3.4,34.705882352941174
+accommodation and food services,services,2,2020,covid_2020_21,13.3,1700.0,4100.0,3.5,2.411764705882353
+accommodation and food services,services,2,2021,covid_2020_21,1.5,180.0,7000.0,3.2,38.888888888888886
+accommodation and food services,services,2,2022,other,0.3,40.0,9900.0,3.0,247.5
+accommodation and food services,services,2,2023,latest_2023_25,1.0,150.0,8100.0,2.6,54.0
+accommodation and food services,services,2,2024,latest_2023_25,1.2,180.0,6500.0,2.3,36.111111111111114
+accommodation and food services,services,2,2025,latest_2023_25,1.5,240.0,6100.0,2.2,25.416666666666668
+information and communications,services,2,2006,other,14.4,620.0,1000.0,2.0,1.6129032258064515
+information and communications,services,2,2007,other,5.8,270.0,1300.0,2.3,4.814814814814815
+information and communications,services,2,2008,other,9.3,450.0,1400.0,2.1,3.111111111111111
+information and communications,services,2,2009,other,13.6,690.0,800.0,1.6,1.1594202898550725
+information and communications,services,2,2010,other,6.7,350.0,1400.0,2.1,4.0
+information and communications,services,2,2011,other,8.3,500.0,1700.0,1.9,3.4
+information and communications,services,2,2012,other,11.6,730.0,1600.0,2.0,2.191780821917808
+information and communications,services,2,2013,other,13.0,840.0,1800.0,2.0,2.142857142857143
+information and communications,services,2,2014,other,12.0,810.0,2400.0,1.8,2.962962962962963
+information and communications,services,2,2015,baseline_2015_19,10.1,730.0,2900.0,1.8,3.9726027397260273
+information and communications,services,2,2016,baseline_2015_19,13.0,970.0,2900.0,1.7,2.9896907216494846
+information and communications,services,2,2017,baseline_2015_19,12.0,940.0,3100.0,1.6,3.297872340425532
+information and communications,services,2,2018,baseline_2015_19,13.1,1120.0,4000.0,1.6,3.5714285714285716
+information and communications,services,2,2019,baseline_2015_19,8.1,710.0,4200.0,1.6,5.915492957746479
+information and communications,services,2,2020,covid_2020_21,16.4,1430.0,4600.0,1.5,3.2167832167832167
+information and communications,services,2,2021,covid_2020_21,13.6,1040.0,8600.0,2.0,8.26923076923077
+information and communications,services,2,2022,other,11.5,1200.0,10300.0,2.1,8.583333333333334
+information and communications,services,2,2023,latest_2023_25,24.9,2740.0,7100.0,1.5,2.591240875912409
+information and communications,services,2,2024,latest_2023_25,18.4,2060.0,6300.0,1.5,3.058252427184466
+information and communications,services,2,2025,latest_2023_25,17.1,1930.0,5800.0,1.3,3.005181347150259
+financial and insurance services,services,2,2006,other,4.6,400.0,1600.0,1.8,4.0
+financial and insurance services,services,2,2007,other,1.8,180.0,2600.0,1.9,14.444444444444445
+financial and insurance services,services,2,2008,other,14.6,1440.0,1900.0,1.5,1.3194444444444444
+financial and insurance services,services,2,2009,other,18.3,1840.0,1300.0,1.1,0.7065217391304348
+financial and insurance services,services,2,2010,other,6.0,610.0,2500.0,1.6,4.098360655737705
+financial and insurance services,services,2,2011,other,7.5,860.0,2800.0,1.5,3.255813953488372
+financial and insurance services,services,2,2012,other,11.6,1380.0,2500.0,1.2,1.8115942028985508
+financial and insurance services,services,2,2013,other,10.4,1270.0,2800.0,1.4,2.204724409448819
+financial and insurance services,services,2,2014,other,10.6,1350.0,3800.0,1.4,2.814814814814815
+financial and insurance services,services,2,2015,baseline_2015_19,13.5,1760.0,3700.0,1.3,2.102272727272727
+financial and insurance services,services,2,2016,baseline_2015_19,17.1,2310.0,3200.0,1.2,1.3852813852813852
+financial and insurance services,services,2,2017,baseline_2015_19,14.1,1780.0,4200.0,1.3,2.359550561797753
+financial and insurance services,services,2,2018,baseline_2015_19,9.6,1330.0,5000.0,1.4,3.7593984962406015
+financial and insurance services,services,2,2019,baseline_2015_19,8.6,1300.0,5300.0,1.2,4.076923076923077
+financial and insurance services,services,2,2020,covid_2020_21,15.1,2140.0,4300.0,0.9,2.0093457943925235
+financial and insurance services,services,2,2021,covid_2020_21,10.2,1330.0,8200.0,1.3,6.165413533834586
+financial and insurance services,services,2,2022,other,4.8,700.0,10200.0,1.4,14.571428571428571
+financial and insurance services,services,2,2023,latest_2023_25,10.8,1820.0,6300.0,1.1,3.4615384615384617
+financial and insurance services,services,2,2024,latest_2023_25,11.3,1880.0,5100.0,0.9,2.7127659574468086
+financial and insurance services,services,2,2025,latest_2023_25,13.3,2360.0,5700.0,0.9,2.4152542372881354
+real estate services,services,2,2006,other,3.6,150.0,600.0,3.3,4.0
+real estate services,services,2,2007,other,0.2,10.0,900.0,3.2,90.0
+real estate services,services,2,2008,other,1.6,70.0,900.0,3.0,12.857142857142858
+real estate services,services,2,2009,other,3.0,140.0,900.0,2.9,6.428571428571429
+real estate services,services,2,2010,other,2.6,130.0,1400.0,3.3,10.76923076923077
+real estate services,services,2,2011,other,2.5,130.0,1900.0,3.2,14.615384615384615
+real estate services,services,2,2012,other,1.1,60.0,1800.0,3.3,30.0
+real estate services,services,2,2013,other,0.5,30.0,2100.0,3.0,70.0
+real estate services,services,2,2014,other,1.6,90.0,2300.0,3.4,25.555555555555557
+real estate services,services,2,2015,baseline_2015_19,0.9,50.0,2200.0,3.1,44.0
+real estate services,services,2,2016,baseline_2015_19,1.6,90.0,1500.0,2.9,16.666666666666668
+real estate services,services,2,2017,baseline_2015_19,1.4,70.0,1100.0,2.7,15.714285714285714
+real estate services,services,2,2018,baseline_2015_19,1.9,100.0,1200.0,2.5,12.0
+real estate services,services,2,2019,baseline_2015_19,4.7,190.0,1300.0,2.5,6.842105263157895
+real estate services,services,2,2020,covid_2020_21,3.3,140.0,1100.0,1.6,7.857142857142857
+real estate services,services,2,2021,covid_2020_21,2.8,100.0,1500.0,2.1,15.0
+real estate services,services,2,2022,other,0.8,30.0,2100.0,1.9,70.0
+real estate services,services,2,2023,latest_2023_25,1.6,80.0,1800.0,1.5,22.5
+real estate services,services,2,2024,latest_2023_25,1.8,80.0,1800.0,1.3,22.5
+real estate services,services,2,2025,latest_2023_25,1.7,80.0,1500.0,1.1,18.75
+professional services,services,2,2006,other,4.0,270.0,1800.0,2.3,6.666666666666667
+professional services,services,2,2007,other,3.7,280.0,2700.0,2.2,9.642857142857142
+professional services,services,2,2008,other,7.5,700.0,2600.0,2.1,3.7142857142857144
+professional services,services,2,2009,other,12.5,1210.0,1500.0,1.6,1.2396694214876034
+professional services,services,2,2010,other,7.0,720.0,2000.0,1.9,2.7777777777777777
+professional services,services,2,2011,other,8.2,940.0,2500.0,1.8,2.6595744680851063
+professional services,services,2,2012,other,9.7,1230.0,2500.0,1.8,2.032520325203252
+professional services,services,2,2013,other,7.5,960.0,2900.0,1.8,3.0208333333333335
+professional services,services,2,2014,other,11.6,1520.0,3500.0,1.8,2.3026315789473686
+professional services,services,2,2015,baseline_2015_19,17.2,2290.0,3900.0,1.8,1.703056768558952
+professional services,services,2,2016,baseline_2015_19,20.5,2740.0,3300.0,1.6,1.2043795620437956
+professional services,services,2,2017,baseline_2015_19,13.4,1700.0,2800.0,1.5,1.6470588235294117
+professional services,services,2,2018,baseline_2015_19,8.4,1100.0,4000.0,1.6,3.6363636363636362
+professional services,services,2,2019,baseline_2015_19,9.2,1210.0,3900.0,1.7,3.2231404958677685
+professional services,services,2,2020,covid_2020_21,16.4,2310.0,3200.0,1.3,1.3852813852813852
+professional services,services,2,2021,covid_2020_21,7.2,920.0,7200.0,1.7,7.826086956521739
+professional services,services,2,2022,other,3.3,490.0,9100.0,1.6,18.571428571428573
+professional services,services,2,2023,latest_2023_25,10.1,1620.0,6700.0,1.3,4.135802469135802
+professional services,services,2,2024,latest_2023_25,11.4,1870.0,6000.0,1.3,3.2085561497326203
+professional services,services,2,2025,latest_2023_25,10.8,1900.0,6100.0,1.2,3.210526315789474
+administrative and support services,services,2,2006,other,4.0,210.0,2000.0,3.4,9.523809523809524
+administrative and support services,services,2,2007,other,2.2,140.0,2700.0,3.8,19.285714285714285
+administrative and support services,services,2,2008,other,4.8,370.0,3000.0,3.7,8.108108108108109
+administrative and support services,services,2,2009,other,8.1,690.0,2200.0,3.3,3.1884057971014492
+administrative and support services,services,2,2010,other,2.9,270.0,3200.0,4.1,11.851851851851851
+administrative and support services,services,2,2011,other,1.1,100.0,4500.0,3.9,45.0
+administrative and support services,services,2,2012,other,2.6,280.0,3700.0,4.2,13.214285714285714
+administrative and support services,services,2,2013,other,1.9,210.0,4300.0,3.8,20.476190476190474
+administrative and support services,services,2,2014,other,2.9,340.0,5400.0,4.0,15.882352941176471
+administrative and support services,services,2,2015,baseline_2015_19,2.9,380.0,5300.0,3.5,13.947368421052632
+administrative and support services,services,2,2016,baseline_2015_19,2.3,340.0,4800.0,3.5,14.117647058823529
+administrative and support services,services,2,2017,baseline_2015_19,2.7,410.0,4600.0,3.6,11.21951219512195
+administrative and support services,services,2,2018,baseline_2015_19,1.4,200.0,5000.0,3.4,25.0
+administrative and support services,services,2,2019,baseline_2015_19,1.7,260.0,3900.0,3.5,15.0
+administrative and support services,services,2,2020,covid_2020_21,10.7,1600.0,4000.0,3.1,2.5
+administrative and support services,services,2,2021,covid_2020_21,2.8,340.0,6200.0,3.1,18.235294117647058
+administrative and support services,services,2,2022,other,1.6,230.0,7600.0,3.1,33.04347826086956
+administrative and support services,services,2,2023,latest_2023_25,2.7,380.0,6500.0,2.7,17.105263157894736
+administrative and support services,services,2,2024,latest_2023_25,3.7,540.0,5200.0,2.2,9.62962962962963
+administrative and support services,services,2,2025,latest_2023_25,3.1,500.0,4900.0,1.8,9.8
+"community, social and personal services",services,2,2006,other,1.9,370.0,6000.0,1.2,16.216216216216218
+"community, social and personal services",services,2,2007,other,1.3,270.0,7400.0,1.2,27.40740740740741
+"community, social and personal services",services,2,2008,other,2.6,570.0,9300.0,1.2,16.31578947368421
+"community, social and personal services",services,2,2009,other,1.0,240.0,10200.0,1.0,42.5
+"community, social and personal services",services,2,2010,other,1.0,260.0,10600.0,1.2,40.76923076923077
+"community, social and personal services",services,2,2011,other,0.9,260.0,12600.0,1.2,48.46153846153846
+"community, social and personal services",services,2,2012,other,0.8,240.0,11200.0,1.2,46.666666666666664
+"community, social and personal services",services,2,2013,other,0.6,190.0,12400.0,1.1,65.26315789473684
+"community, social and personal services",services,2,2014,other,0.4,130.0,13700.0,1.1,105.38461538461539
+"community, social and personal services",services,2,2015,baseline_2015_19,0.7,230.0,12600.0,1.1,54.78260869565217
+"community, social and personal services",services,2,2016,baseline_2015_19,2.4,850.0,10800.0,1.0,12.705882352941176
+"community, social and personal services",services,2,2017,baseline_2015_19,1.3,460.0,9900.0,1.0,21.52173913043478
+"community, social and personal services",services,2,2018,baseline_2015_19,0.8,290.0,10700.0,1.1,36.89655172413793
+"community, social and personal services",services,2,2019,baseline_2015_19,0.8,300.0,10800.0,1.0,36.0
+"community, social and personal services",services,2,2020,covid_2020_21,7.5,2690.0,11600.0,0.9,4.312267657992565
+"community, social and personal services",services,2,2021,covid_2020_21,0.5,170.0,17500.0,1.1,102.94117647058823
+"community, social and personal services",services,2,2022,other,0.8,310.0,22300.0,1.2,71.93548387096774
+"community, social and personal services",services,2,2023,latest_2023_25,0.8,280.0,20200.0,1.0,72.14285714285714
+"community, social and personal services",services,2,2024,latest_2023_25,0.9,360.0,17300.0,0.9,48.05555555555556
+"community, social and personal services",services,2,2025,latest_2023_25,1.3,470.0,16600.0,0.9,35.319148936170215
+others,total,1,2006,other,4.8,70.0,300.0,1.1,4.285714285714286
+others,total,1,2007,other,1.4,20.0,500.0,1.5,25.0
+others,total,1,2008,other,2.3,50.0,500.0,2.1,10.0
+others,total,1,2009,other,4.6,90.0,400.0,2.0,4.444444444444445
+others,total,1,2010,other,,,400.0,1.6,
+others,total,1,2011,other,2.5,50.0,600.0,1.7,12.0
+others,total,1,2012,other,0.5,10.0,800.0,1.7,80.0
+others,total,1,2013,other,0.6,10.0,600.0,1.5,60.0
+others,total,1,2014,other,0.4,10.0,500.0,1.5,50.0
+others,total,1,2015,baseline_2015_19,3.8,80.0,500.0,1.4,6.25
+others,total,1,2016,baseline_2015_19,4.5,100.0,400.0,1.2,4.0
+others,total,1,2017,baseline_2015_19,0.7,20.0,400.0,1.4,20.0
+others,total,1,2018,baseline_2015_19,,,400.0,1.4,
+others,total,1,2019,baseline_2015_19,1.4,30.0,400.0,1.2,13.333333333333334
+others,total,1,2020,covid_2020_21,1.8,40.0,300.0,0.9,7.5
+others,total,1,2021,covid_2020_21,2.4,50.0,700.0,1.1,14.0
+others,total,1,2022,other,1.2,30.0,700.0,1.2,23.333333333333332
+others,total,1,2023,latest_2023_25,4.2,80.0,700.0,1.0,8.75
+others,total,1,2024,latest_2023_25,6.0,120.0,600.0,0.9,5.0
+others,total,1,2025,latest_2023_25,9.9,160.0,600.0,0.8,3.75

@@ -1,0 +1,14 @@
+industry,parent,level,incidence_base,incidence_latest,incidence_change,retrenched_base,retrenched_latest,vacancies_base,vacancies_latest,vpr_base,vpr_latest,resignation_base,resignation_latest
+construction,total,1,5.0,1.6,-3.4,1556.0,543.0,2380.0,8133.0,1.5,15.0,1.78,1.23
+wholesale and retail trade,services,2,8.9,10.9,2.0,2122.0,2447.0,6220.0,6800.0,2.9,2.8,2.04,1.4
+transportation and storage,services,2,5.1,5.7,0.5,780.0,747.0,3360.0,5067.0,4.3,6.8,1.38,1.13
+accommodation and food services,services,2,2.2,1.2,-1.0,308.0,190.0,6000.0,6900.0,19.5,36.3,3.58,2.37
+information and communications,services,2,11.3,20.1,8.9,894.0,2243.0,3420.0,6400.0,3.8,2.9,1.66,1.43
+real estate services,services,2,2.1,1.7,-0.4,100.0,80.0,1460.0,1700.0,14.6,21.3,2.74,1.3
+"community, social and personal services",services,2,1.2,1.0,-0.2,426.0,370.0,10960.0,18033.0,25.7,48.7,1.04,0.93
+manufacturing,total,1,11.2,8.7,-2.5,4128.0,3010.0,6840.0,7967.0,1.7,2.6,1.52,1.03
+services,total,1,6.0,6.8,0.8,8450.0,10363.0,44020.0,62367.0,5.2,6.0,1.9,1.4
+financial and insurance services,services,2,12.6,11.8,-0.8,1696.0,2020.0,4280.0,5700.0,2.5,2.8,1.28,0.97
+professional services,services,2,13.7,10.8,-3.0,1808.0,1797.0,3580.0,6267.0,2.0,3.5,1.64,1.27
+administrative and support services,services,2,2.2,3.2,1.0,318.0,473.0,4720.0,5533.0,14.8,11.7,3.5,2.23
+others,total,1,2.6,6.7,4.1,58.0,120.0,420.0,633.0,9.1,5.3,1.32,0.9

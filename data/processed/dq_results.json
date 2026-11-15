@@ -1,0 +1,158 @@
+[
+  {
+    "rule": "incidence: industries known",
+    "severity": "error",
+    "passed": true,
+    "detail": "[]"
+  },
+  {
+    "rule": "incidence: one row per industry x year, full grid",
+    "severity": "error",
+    "passed": true,
+    "detail": "duplicates=0, missing=0"
+  },
+  {
+    "rule": "incidence: values numeric or '-'",
+    "severity": "error",
+    "passed": true,
+    "detail": "0 bad values"
+  },
+  {
+    "rule": "incidence: non-negative",
+    "severity": "error",
+    "passed": true,
+    "detail": "0 negative"
+  },
+  {
+    "rule": "incidence: nil/negligible ('-') entries",
+    "severity": "warning",
+    "passed": false,
+    "detail": "2 entries"
+  },
+  {
+    "rule": "retrenched: industries known",
+    "severity": "error",
+    "passed": true,
+    "detail": "[]"
+  },
+  {
+    "rule": "retrenched: one row per industry x year, full grid",
+    "severity": "error",
+    "passed": true,
+    "detail": "duplicates=0, missing=0"
+  },
+  {
+    "rule": "retrenched: values numeric or '-'",
+    "severity": "error",
+    "passed": true,
+    "detail": "0 bad values"
+  },
+  {
+    "rule": "retrenched: non-negative",
+    "severity": "error",
+    "passed": true,
+    "detail": "0 negative"
+  },
+  {
+    "rule": "retrenched: nil/negligible ('-') entries",
+    "severity": "warning",
+    "passed": false,
+    "detail": "2 entries"
+  },
+  {
+    "rule": "vacancy: industries known",
+    "severity": "error",
+    "passed": true,
+    "detail": "[]"
+  },
+  {
+    "rule": "vacancy: one row per industry x year, full grid",
+    "severity": "error",
+    "passed": true,
+    "detail": "duplicates=0, missing=0"
+  },
+  {
+    "rule": "vacancy: values numeric or '-'",
+    "severity": "error",
+    "passed": true,
+    "detail": "0 bad values"
+  },
+  {
+    "rule": "vacancy: non-negative",
+    "severity": "error",
+    "passed": true,
+    "detail": "0 negative"
+  },
+  {
+    "rule": "vacancy: nil/negligible ('-') entries",
+    "severity": "warning",
+    "passed": true,
+    "detail": "0 entries"
+  },
+  {
+    "rule": "resignation: industries known",
+    "severity": "error",
+    "passed": true,
+    "detail": "[]"
+  },
+  {
+    "rule": "resignation: one row per industry x year, full grid",
+    "severity": "error",
+    "passed": true,
+    "detail": "duplicates=0, missing=0"
+  },
+  {
+    "rule": "resignation: values numeric or '-'",
+    "severity": "error",
+    "passed": true,
+    "detail": "0 bad values"
+  },
+  {
+    "rule": "resignation: non-negative",
+    "severity": "error",
+    "passed": true,
+    "detail": "0 negative"
+  },
+  {
+    "rule": "resignation: nil/negligible ('-') entries",
+    "severity": "warning",
+    "passed": true,
+    "detail": "0 entries"
+  },
+  {
+    "rule": "incidence within 0-1000 per 1,000",
+    "severity": "error",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "rule": "resignation rate within 0-100%",
+    "severity": "error",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "rule": "retrenched: services reconciles to sub-industries (tol 50)",
+    "severity": "error",
+    "passed": true,
+    "detail": "max gap 20"
+  },
+  {
+    "rule": "vacancy: services reconciles to sub-industries (tol 500)",
+    "severity": "error",
+    "passed": true,
+    "detail": "max gap 200"
+  },
+  {
+    "rule": "retrenched count and incidence agree on nil",
+    "severity": "error",
+    "passed": true,
+    "detail": "0 rows"
+  },
+  {
+    "rule": "incidence YoY swing <= 10 per 1,000",
+    "severity": "warning",
+    "passed": false,
+    "detail": "12 swings, e.g. accommodation and food services 2020, accommodation and food services 2021, financial and insurance services 2008, financial and insurance services 2010"
+  }
+]

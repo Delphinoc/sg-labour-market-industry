@@ -1,0 +1,261 @@
+year,industry,incidence_of_retrenchment
+2006,manufacturing,24
+2006,services,4.5
+2006,administrative and support services,4
+2006,wholesale and retail trade,6.6
+2006,transportation and storage,4.2
+2006,"community, social and personal services",1.9
+2006,accommodation and food services,3.4
+2006,professional services,4
+2006,financial and insurance services,4.6
+2006,information and communications,14.4
+2006,real estate services,3.6
+2006,construction,3.5
+2006,others,4.8
+2007,transportation and storage,2.6
+2007,"community, social and personal services",1.3
+2007,services,3.4
+2007,professional services,3.7
+2007,accommodation and food services,4.4
+2007,information and communications,5.8
+2007,manufacturing,14.3
+2007,real estate services,0.2
+2007,financial and insurance services,1.8
+2007,wholesale and retail trade,7.4
+2007,administrative and support services,2.2
+2007,construction,0.5
+2007,others,1.4
+2008,accommodation and food services,1.8
+2008,information and communications,9.3
+2008,transportation and storage,5.3
+2008,"community, social and personal services",2.6
+2008,financial and insurance services,14.6
+2008,real estate services,1.6
+2008,professional services,7.5
+2008,manufacturing,24.7
+2008,others,2.3
+2008,construction,2.8
+2008,services,6.1
+2008,wholesale and retail trade,8.3
+2008,administrative and support services,4.8
+2009,information and communications,13.6
+2009,professional services,12.5
+2009,accommodation and food services,2.2
+2009,"community, social and personal services",1
+2009,transportation and storage,9.2
+2009,wholesale and retail trade,14.3
+2009,administrative and support services,8.1
+2009,manufacturing,35.2
+2009,services,8.7
+2009,construction,4.1
+2009,others,4.6
+2009,real estate services,3
+2009,financial and insurance services,18.3
+2010,transportation and storage,2.6
+2010,real estate services,2.6
+2010,accommodation and food services,1.4
+2010,construction,5.6
+2010,administrative and support services,2.9
+2010,wholesale and retail trade,6.2
+2010,services,3.7
+2010,"community, social and personal services",1
+2010,information and communications,6.7
+2010,financial and insurance services,6
+2010,manufacturing,11.5
+2010,professional services,7
+2010,others,-
+2011,professional services,8.2
+2011,accommodation and food services,3.4
+2011,real estate services,2.5
+2011,construction,4.2
+2011,others,2.5
+2011,administrative and support services,1.1
+2011,manufacturing,11.4
+2011,transportation and storage,1.8
+2011,"community, social and personal services",0.9
+2011,services,3.8
+2011,wholesale and retail trade,5.1
+2011,financial and insurance services,7.5
+2011,information and communications,8.3
+2012,financial and insurance services,11.6
+2012,transportation and storage,2
+2012,wholesale and retail trade,8.5
+2012,"community, social and personal services",0.8
+2012,others,0.5
+2012,construction,2.4
+2012,manufacturing,10.2
+2012,information and communications,11.6
+2012,real estate services,1.1
+2012,services,5.1
+2012,accommodation and food services,2.5
+2012,professional services,9.7
+2012,administrative and support services,2.6
+2013,services,4.3
+2013,real estate services,0.5
+2013,professional services,7.5
+2013,accommodation and food services,1.9
+2013,information and communications,13
+2013,construction,3.8
+2013,others,0.6
+2013,wholesale and retail trade,5.8
+2013,administrative and support services,1.9
+2013,"community, social and personal services",0.6
+2013,transportation and storage,3.1
+2013,financial and insurance services,10.4
+2013,manufacturing,12.5
+2014,manufacturing,10
+2014,real estate services,1.6
+2014,professional services,11.6
+2014,accommodation and food services,3.1
+2014,services,5.5
+2014,"community, social and personal services",0.4
+2014,construction,5.3
+2014,others,0.4
+2014,information and communications,12
+2014,financial and insurance services,10.6
+2014,wholesale and retail trade,9.5
+2014,transportation and storage,3.2
+2014,administrative and support services,2.9
+2015,financial and insurance services,13.5
+2015,accommodation and food services,1.6
+2015,information and communications,10.1
+2015,administrative and support services,2.9
+2015,services,6.2
+2015,transportation and storage,4.6
+2015,wholesale and retail trade,9.3
+2015,others,3.8
+2015,manufacturing,13.2
+2015,real estate services,0.9
+2015,professional services,17.2
+2015,construction,5.4
+2015,"community, social and personal services",0.7
+2016,administrative and support services,2.3
+2016,wholesale and retail trade,10
+2016,transportation and storage,5.7
+2016,services,7.7
+2016,construction,5.7
+2016,"community, social and personal services",2.4
+2016,others,4.5
+2016,manufacturing,16.7
+2016,real estate services,1.6
+2016,professional services,20.5
+2016,accommodation and food services,2.5
+2016,financial and insurance services,17.1
+2016,information and communications,13
+2017,administrative and support services,2.7
+2017,manufacturing,10.7
+2017,financial and insurance services,14.1
+2017,information and communications,12
+2017,accommodation and food services,3.4
+2017,professional services,13.4
+2017,real estate services,1.4
+2017,wholesale and retail trade,9.1
+2017,transportation and storage,5.7
+2017,services,6.3
+2017,construction,6.7
+2017,"community, social and personal services",1.3
+2017,others,0.7
+2018,others,-
+2018,"community, social and personal services",0.8
+2018,manufacturing,7.3
+2018,construction,4.1
+2018,accommodation and food services,2.5
+2018,professional services,8.4
+2018,information and communications,13.1
+2018,financial and insurance services,9.6
+2018,real estate services,1.9
+2018,services,4.8
+2018,wholesale and retail trade,7.4
+2018,transportation and storage,4.4
+2018,administrative and support services,1.4
+2019,financial and insurance services,8.6
+2019,professional services,9.2
+2019,information and communications,8.1
+2019,real estate services,4.7
+2019,accommodation and food services,1.2
+2019,services,4.8
+2019,administrative and support services,1.7
+2019,construction,3.1
+2019,manufacturing,8.1
+2019,"community, social and personal services",0.8
+2019,others,1.4
+2019,transportation and storage,5.2
+2019,wholesale and retail trade,8.7
+2020,others,1.8
+2020,real estate services,3.3
+2020,professional services,16.4
+2020,accommodation and food services,13.3
+2020,financial and insurance services,15.1
+2020,information and communications,16.4
+2020,construction,3.7
+2020,"community, social and personal services",7.5
+2020,manufacturing,16
+2020,transportation and storage,18.9
+2020,administrative and support services,10.7
+2020,services,13.9
+2020,wholesale and retail trade,22
+2021,real estate services,2.8
+2021,information and communications,13.6
+2021,accommodation and food services,1.5
+2021,professional services,7.2
+2021,financial and insurance services,10.2
+2021,manufacturing,6.2
+2021,construction,1.1
+2021,"community, social and personal services",0.5
+2021,others,2.4
+2021,transportation and storage,4.1
+2021,wholesale and retail trade,6.9
+2021,services,4.7
+2021,administrative and support services,2.8
+2022,real estate services,0.8
+2022,information and communications,11.5
+2022,accommodation and food services,0.3
+2022,manufacturing,6.6
+2022,"community, social and personal services",0.8
+2022,others,1.2
+2022,financial and insurance services,4.8
+2022,construction,0.9
+2022,wholesale and retail trade,4.2
+2022,transportation and storage,1
+2022,administrative and support services,1.6
+2022,professional services,3.3
+2022,services,2.8
+2023,accommodation and food services,1
+2023,financial and insurance services,10.8
+2023,manufacturing,10.1
+2023,"community, social and personal services",0.8
+2023,others,4.2
+2023,wholesale and retail trade,12.3
+2023,transportation and storage,4.4
+2023,services,7
+2023,construction,1.9
+2023,administrative and support services,2.7
+2023,professional services,10.1
+2023,real estate services,1.6
+2023,information and communications,24.9
+2024,accommodation and food services,1.2
+2024,information and communications,18.4
+2024,construction,1.3
+2024,services,6.4
+2024,others,6
+2024,"community, social and personal services",0.9
+2024,professional services,11.4
+2024,administrative and support services,3.7
+2024,transportation and storage,4.1
+2024,real estate services,1.8
+2024,financial and insurance services,11.3
+2024,manufacturing,8
+2024,wholesale and retail trade,10
+2025,information and communications,17.1
+2025,"community, social and personal services",1.3
+2025,others,9.9
+2025,manufacturing,8.1
+2025,financial and insurance services,13.3
+2025,real estate services,1.7
+2025,accommodation and food services,1.5
+2025,transportation and storage,8.5
+2025,wholesale and retail trade,10.4
+2025,professional services,10.8
+2025,administrative and support services,3.1
+2025,services,7
+2025,construction,1.5

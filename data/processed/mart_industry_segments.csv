@@ -1,0 +1,12 @@
+industry,incidence_latest,vpr_latest,incidence_change,segment
+information and communications,20.1,2.9,8.9,"Restructuring: high job losses, few openings"
+financial and insurance services,11.8,2.8,-0.8,"Restructuring: high job losses, few openings"
+wholesale and retail trade,10.9,2.8,2.0,"Restructuring: high job losses, few openings"
+professional services,10.8,3.5,-3.0,"Restructuring: high job losses, few openings"
+manufacturing,8.7,2.6,-2.5,"Restructuring: high job losses, few openings"
+transportation and storage,5.7,6.8,0.5,Churn: high job losses and many openings
+administrative and support services,3.2,11.7,1.0,"Tight: low job losses, many openings"
+real estate services,1.7,21.3,-0.4,"Tight: low job losses, many openings"
+construction,1.6,15.0,-3.4,"Tight: low job losses, many openings"
+accommodation and food services,1.2,36.3,-1.0,"Tight: low job losses, many openings"
+"community, social and personal services",1.0,48.7,-0.2,"Tight: low job losses, many openings"
